@@ -9,7 +9,7 @@
 
 | Status | Article Title | Keyword | Channel | Assigned | Notes |
 |---|---|---|---|---|---|
-| `[ ]` | Are You Ready to Own a Franchise? | "how to know if you're ready to buy a franchise" | Blog + Email #1 | — | Source: Groce S1 |
+| `[~]` | Are You Ready to Own a Franchise? | "how to know if you're ready to buy a franchise" | Blog + Email #1 | Kelsey | Source: Groce S1 — DRAFT COMPLETE |
 | `[ ]` | The True Cost of Buying a Franchise | "how much does a franchise cost" | Blog | — | Source: Groce F3 |
 | `[ ]` | FDD Decoded: What Actually Matters | "how to read an FDD" | Blog + Gated PDF | — | Source: Groce F9 |
 | `[ ]` | Asset-Light vs. Capital-Heavy: Choosing Your Franchise Type | "best type of franchise to buy" | Blog | — | Source: Groce F18 |
