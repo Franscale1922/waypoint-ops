@@ -14,9 +14,9 @@
 | `[~]` | FDD Decoded: What Actually Matters | "how to read an FDD" | Blog + Gated PDF | Kelsey | Source: Groce F9 — DRAFT COMPLETE |
 | `[~]` | Asset-Light vs. Capital-Heavy: Choosing Your Franchise Type | "best type of franchise to buy" | Blog | Kelsey | Source: Groce I14 — DRAFT COMPLETE |
 | `[~]` | Recession-Proof Franchise Categories | "recession resistant franchise" | Blog + LinkedIn | Kelsey | Source: Groce I5 — DRAFT COMPLETE |
-| `[ ]` | Red Flags: Franchise Types to Avoid | "worst franchises to buy" | Blog | — | Source: Groce F10 |
-| `[ ]` | Why You Don't Need to Love Your Franchise | "passion vs investment franchise" | Blog + Email | — | Source: Groce F8, I12 |
-| `[ ]` | Do You Need a Franchise Consultant? | "what does a franchise consultant do" | Blog + Email #1 | — | Source: Groce F1 |
+| `[~]` | Red Flags: Franchise Types to Avoid | "worst franchises to buy" | Blog | Kelsey | Source: Groce F10 — DRAFT COMPLETE |
+| `[~]` | Why You Don't Need to Love Your Franchise | "passion vs investment franchise" | Blog + Email | Kelsey | Source: Groce F8, I12 — DRAFT COMPLETE |
+| `[~]` | Do You Need a Franchise Consultant? | "what does a franchise consultant do" | Blog + Email #1 | Kelsey | Source: Groce F1 — DRAFT COMPLETE |
 
 ---
 
