@@ -24,18 +24,18 @@
 
 | Status | Article Title | Keyword | Channel | Assigned | Notes |
 |---|---|---|---|---|---|
-| `[ ]` | How Franchise Funding Actually Works | "how to fund a franchise" | Email #2 | — | Source: Groce F6 |
-| `[ ]` | One Unit or Multi-Unit? What First-Timers Get Wrong | "should I buy multiple franchise units" | Email #3 | — | Source: Groce F4 |
-| `[ ]` | The Semi-Absentee Franchise: Real Talk | "can I buy a franchise and keep my job" | Blog + Email | — | Source: Groce F5 |
-| `[ ]` | What to Expect at Discovery Day | "franchise discovery day" | Email #5 | — | Source: Groce S3 |
-| `[ ]` | Your First 90 Days as a Franchise Owner | "first year franchise owner" | Blog | — | Source: Groce F16 |
-| `[ ]` | How to Pick a Franchise Territory | "how to choose a franchise territory" | Blog | — | Source: Groce I15 |
-| `[ ]` | Big Name vs. Emerging: Which Franchise to Buy | "big name franchise vs emerging brand" | Blog | — | Source: Groce F7, I6 |
-| `[ ]` | The Franchise Agreement: What You Can and Can't Negotiate | "franchise agreement negotiation" | Blog | — | Source: Groce E3 |
-| `[ ]` | How to Tell If a Franchisor Actually Cares | "how to evaluate franchisor support" | Email | — | Source: Groce F12 |
-| `[ ]` | W-2 to Franchise Owner: When You're Actually Ready | "leaving corporate job to buy franchise" | Blog + LinkedIn | — | Source: Groce I13 |
-| `[ ]` | What Is Your Time Worth? The ROI Math of Franchise Ownership | "franchise ROI" | Blog | — | Source: Groce — |
-| `[ ]` | Fast-Growing Franchise Brand: Good Sign or Red Flag? | "franchise fast growth red flag" | Blog | — | Source: Groce F11 |
+| `[~]` | How Franchise Funding Actually Works | "how to fund a franchise" | Email #2 | Kelsey | Source: Groce F6 — DRAFT COMPLETE |
+| `[~]` | One Unit or Multi-Unit? What First-Timers Get Wrong | "should I buy multiple franchise units" | Email #3 | Kelsey | Source: Groce F4 — DRAFT COMPLETE |
+| `[~]` | The Semi-Absentee Franchise: Real Talk | "can I buy a franchise and keep my job" | Blog + Email | Kelsey | Source: Groce F5 — DRAFT COMPLETE |
+| `[~]` | What to Expect at Discovery Day | "franchise discovery day" | Email #5 | Kelsey | Source: Groce S3 — DRAFT COMPLETE |
+| `[~]` | Your First 90 Days as a Franchise Owner | "first year franchise owner" | Blog | Kelsey | Source: Groce F16 — DRAFT COMPLETE |
+| `[~]` | How to Pick a Franchise Territory | "how to choose a franchise territory" | Blog | Kelsey | Source: Groce I15 — DRAFT COMPLETE |
+| `[~]` | Big Name vs. Emerging: Which Franchise to Buy | "big name franchise vs emerging brand" | Blog | Kelsey | Source: Groce F7, I6 — DRAFT COMPLETE |
+| `[~]` | The Franchise Agreement: What You Can and Can't Negotiate | "franchise agreement negotiation" | Blog | Kelsey | Source: Groce E3 — DRAFT COMPLETE |
+| `[~]` | How to Tell If a Franchisor Actually Cares | "how to evaluate franchisor support" | Email | Kelsey | Source: Groce F12 — DRAFT COMPLETE |
+| `[~]` | W-2 to Franchise Owner: When You're Actually Ready | "leaving corporate job to buy franchise" | Blog + LinkedIn | Kelsey | Source: Groce I13 — DRAFT COMPLETE |
+| `[~]` | What Is Your Time Worth? The ROI Math of Franchise Ownership | "franchise ROI" | Blog | Kelsey | Source: Groce — DRAFT COMPLETE |
+| `[~]` | Fast-Growing Franchise Brand: Good Sign or Red Flag? | "franchise fast growth red flag" | Blog | Kelsey | Source: Groce F11 — DRAFT COMPLETE |
 
 ---
 
