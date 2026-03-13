@@ -43,14 +43,14 @@
 
 | Status | Article Title | Keyword | Channel | Target Persona | Notes |
 |---|---|---|---|---|---|
-| `[ ]` | Senior Care Franchise: Is It Right for You? | "senior care franchise" | Blog + Outreach | — | Source: Groce A14, A17, A21 |
-| `[ ]` | Home Services Franchises: The Most Overlooked Category | "home services franchise" | Blog | — | Source: Groce A01-A02, A18 |
-| `[ ]` | Health & Wellness Franchises: Fad vs. Durable Business | "health and wellness franchise" | Blog | — | Source: Groce A04, A08, F13 |
-| `[ ]` | B2B Franchise Opportunities: Lower Risk, Steadier Cash | "B2B franchise" | Blog + Outreach | — | Source: Groce A12, A16 |
-| `[ ]` | Fitness Franchise Comparison: What the Numbers Say | "fitness franchise" | Blog | — | Source: Groce A04, A17, A20 |
-| `[ ]` | Restoration Franchises: The Disaster-Proof Business | "restoration franchise" | Blog | — | Source: Groce A18, A22 |
-| `[ ]` | Should You Buy a Car Wash Franchise? | "car wash franchise" | Blog | — | Source: Groce A40 |
-| `[ ]` | The Junk Removal Franchise: Economics Explained | "junk removal franchise" | Blog | — | Source: Groce A04 |
+| `[~]` | Senior Care Franchise: Is It Right for You? | "senior care franchise" | Blog + Outreach | — | Source: Groce A14, A17, A21 — DRAFT COMPLETE |
+| `[~]` | Home Services Franchises: The Most Overlooked Category | "home services franchise" | Blog | — | Source: Groce A01-A02, A18 — DRAFT COMPLETE |
+| `[~]` | Health & Wellness Franchises: Fad vs. Durable Business | "health and wellness franchise" | Blog | — | Source: Groce A04, A08, F13 — DRAFT COMPLETE |
+| `[~]` | B2B Franchise Opportunities: Lower Risk, Steadier Cash | "B2B franchise" | Blog + Outreach | — | Source: Groce A12, A16 — DRAFT COMPLETE |
+| `[~]` | Fitness Franchise Comparison: What the Numbers Say | "fitness franchise" | Blog | — | Source: Groce A04, A17, A20 — DRAFT COMPLETE |
+| `[~]` | Restoration Franchises: The Disaster-Proof Business | "restoration franchise" | Blog | — | Source: Groce A18, A22 — DRAFT COMPLETE |
+| `[~]` | Should You Buy a Car Wash Franchise? | "car wash franchise" | Blog | — | Source: Groce A40 — DRAFT COMPLETE |
+| `[~]` | The Junk Removal Franchise: Economics Explained | "junk removal franchise" | Blog | — | Source: Groce A04 — DRAFT COMPLETE |
 
 ---
 
