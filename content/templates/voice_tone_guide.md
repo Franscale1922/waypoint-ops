@@ -66,6 +66,7 @@ These are not Kelsey. Delete on sight:
 - "It's important to note..."
 - "As a franchise consultant..."
 - "At the end of the day..."
+- "Here's the truth:" (or any variation — state the point directly instead)
 - "Leverage your investment..."
 - "Best-in-class support..."
 - "Exciting opportunity..."
