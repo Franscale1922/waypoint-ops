@@ -26,7 +26,7 @@ That's not a threat. It's just how the system works. Franchisors have a lot of c
 
 So if you jump in before you know your capital position, before you know what you actually want out of ownership, before you have any framework for evaluating what you're looking at, you're going to get eaten alive by the process. You'll end up looking at things that don't fit. You'll get attached to a concept before you've done any real analysis. You'll make a slow, reactive decision instead of a fast, informed one.
 
-The people who do this well come in prepared. First conversation, they know their numbers. They know what role they want to play in the business. They know whether they're building something to sell or something to run for ten years. That clarity is what gets you good results.
+The people who do this well come in prepared. First conversation, they know their numbers. They know what role they want to play in the business. They know whether they're building something to sell or something to run for ten years. Knowing those things before you start is what gets you good results.
 
 Here's what that preparation actually looks like.
 

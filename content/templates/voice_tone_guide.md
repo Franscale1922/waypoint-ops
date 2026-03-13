@@ -70,6 +70,7 @@ These are not Kelsey. Delete on sight:
 - "Best-in-class support..."
 - "Exciting opportunity..."
 - "Don't miss out..."
+- "Clarity" (too vague and overused — say specifically what someone will know, decide, or be able to do)
 - Generic openers that could apply to any topic in any industry
 
 ---
