@@ -78,7 +78,3 @@ The trade-off is operational weight. This is not a simple business, and it's not
 
 *Interested in exploring a specific restoration concept? Let's look at what's available in your market. [Book a call →](https://waypointfranchiseadvisors.com/schedule)*
 
----
-
-*Sources: Groce A18 (full-service disaster restoration, grill cleaning), A22 (cabinet restoration, mobile aircraft detailing) — Franchise Anonymous series*
-*Waypoint Franchise Advisors | Tier 3 — Vertical Deep-Dives*

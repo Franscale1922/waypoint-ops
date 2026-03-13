@@ -67,7 +67,3 @@ If you're looking at specific wellness concepts, the conversation should start w
 
 *Ready to figure out if wellness is the right vertical for your goals? [Book a call →](https://waypointfranchiseadvisors.com/schedule)*
 
----
-
-*Sources: Groce A04 (athlete-style fitness, contents restoration), A08 (holiday lighting, men's hormone clinic), F13 (wellness fads vs. durable business) — Franchise Anonymous and FAQ series*
-*Waypoint Franchise Advisors | Tier 3 — Vertical Deep-Dives*

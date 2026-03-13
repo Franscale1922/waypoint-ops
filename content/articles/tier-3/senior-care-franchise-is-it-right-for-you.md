@@ -65,7 +65,4 @@ If you're seriously considering this category, the first conversation should be 
 
 *Most people in your position find it useful to just have the first conversation. [Schedule 30 minutes →](https://waypointfranchiseadvisors.com/schedule)*
 
----
 
-*Sources: Groce A14 (full-spectrum home care), A17 (skilled home health), A21 (senior care matchmaking) — Franchise Anonymous series*
-*Waypoint Franchise Advisors | Tier 3 — Vertical Deep-Dives*

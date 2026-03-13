@@ -86,7 +86,3 @@ If you like the idea of building a real operational business with a team behind 
 
 *Most people in your position find it useful to just have the first conversation. [Schedule 30 minutes →](https://waypointfranchiseadvisors.com/schedule)*
 
----
-
-*Sources: Groce A04 (athlete-style fitness, contents restoration) — Franchise Anonymous series; supplemental data from 1-800-GOT-JUNK? and College H.U.N.K.S. FDD disclosures 2024–2025, junk removal industry research*
-*Waypoint Franchise Advisors | Tier 3 — Vertical Deep-Dives*

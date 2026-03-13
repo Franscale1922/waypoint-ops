@@ -81,7 +81,3 @@ If you want to see which specific home services brands are worth looking at in y
 
 *Most people in your position find it useful to just have the first conversation. [Schedule 30 minutes →](https://waypointfranchiseadvisors.com/schedule)*
 
----
-
-*Sources: Groce A01 (pavement maintenance, mobile detailing), A02 (kitchen remodels, peer senior care), A18 (restoration, grill cleaning) — Franchise Anonymous series*
-*Waypoint Franchise Advisors | Tier 3 — Vertical Deep-Dives*

@@ -86,7 +86,3 @@ The right starting question is not "which fitness brand do I like?" It's "what d
 
 *If you want help reading a specific FDD in the fitness category, that's exactly the kind of conversation we have. [Book a call →](https://waypointfranchiseadvisors.com/schedule)*
 
----
-
-*Sources: Groce A04 (D1 athlete-style fitness), A17 (skilled home health + EMS fitness), A20 (small-group personal training, salon suites) — Franchise Anonymous series*
-*Waypoint Franchise Advisors | Tier 3 — Vertical Deep-Dives*

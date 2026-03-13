@@ -80,7 +80,3 @@ If your background is corporate, operational, or relationship-heavy — and you'
 
 *Not sure if B2B is the right vertical for your background? That's a 20-minute conversation. [Book a call →](https://waypointfranchiseadvisors.com/schedule)*
 
----
-
-*Sources: Groce A12 (executive coaching, kitchen remodeling), A16 (B2B cost-cutting consultancy, chiropractic/rehab) — Franchise Anonymous series*
-*Waypoint Franchise Advisors | Tier 3 — Vertical Deep-Dives*

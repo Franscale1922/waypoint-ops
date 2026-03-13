@@ -67,7 +67,3 @@ If you're seriously looking at this category, the conversation should start with
 
 *Want to know if a car wash investment makes sense with your capital profile? [Book a call →](https://waypointfranchiseadvisors.com/schedule)*
 
----
-
-*Sources: Groce A40 (car wash franchise economics, Franchise Anonymous series); supplemental data from industry FDD disclosures and car wash industry research 2024–2025*
-*Waypoint Franchise Advisors | Tier 3 — Vertical Deep-Dives*
