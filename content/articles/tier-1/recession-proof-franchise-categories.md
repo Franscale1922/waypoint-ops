@@ -76,20 +76,5 @@ That data exists. It is in the FDD, in franchisee conversations, and in public r
 
 When I evaluate a concept with a candidate, this is part of the conversation early. Not as a reason to pass, but as a way to make sure what you're buying actually matches what you think you're buying.
 
-[Talk through your options with Kelsey](https://waypointfranchiseadvisors.com/contact)
 
----
-
-*Waypoint Franchise Advisors helps buyers evaluate franchise opportunities for fit, durability, and risk. Our process is free to candidates.*
-
----
-
-**VOICE QA CHECKLIST**
-- [x] Opens by challenging the conventional label rather than confirming it
-- [x] No em-dashes
-- [x] No passive voice
-- [x] No "clarity," no AI filler, no corporate vocabulary
-- [x] Specific categories called out with honest assessments, including critical takes
-- [x] Groce's real-world waste management example used (with context, not attributed)
-- [x] Written to one person evaluating a specific concept, not a general audience
-- [x] Single low-pressure CTA at the end
+[Evaluating a concept for recession resilience? That's part of every conversation we have. →](https://waypointfranchiseadvisors.com/contact)

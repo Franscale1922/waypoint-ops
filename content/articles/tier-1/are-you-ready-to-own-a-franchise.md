@@ -88,18 +88,3 @@ No pitch. No pressure. Just the honest answer.
 
 [Book a free call with Kelsey](https://waypointfranchiseadvisors.com/contact)
 
----
-
-*Waypoint Franchise Advisors helps first-time and experienced buyers find franchise opportunities that fit their capital, timeline, and goals. Our process is free to candidates.*
-
----
-
-**VOICE QA CHECKLIST**
-- [x] Opens with value, not context-setting
-- [x] No em-dashes used
-- [x] No passive voice
-- [x] No AI filler phrases ("it's important to note," "in today's landscape," "leverage," etc.)
-- [x] At least one specific number in every major section
-- [x] Written for one person, not a general audience
-- [x] Single low-pressure CTA at the end
-- [x] Reads aloud like Kelsey (direct, no corporate tone, conversational)

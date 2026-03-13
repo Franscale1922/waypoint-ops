@@ -94,18 +94,3 @@ Finding that out is exactly what the due diligence process is for. If you want a
 
 [Talk through what you're looking at with Kelsey](https://waypointfranchiseadvisors.com/contact)
 
----
-
-*Waypoint Franchise Advisors works with buyers to evaluate franchise opportunities honestly. Our process is free to candidates.*
-
----
-
-**VOICE QA CHECKLIST**
-- [x] Opens with a direct statement of the problem, not a wind-up
-- [x] No em-dashes
-- [x] No passive voice
-- [x] No "clarity" or AI filler vocabulary
-- [x] Specific FDD Item references throughout (Items 2, 6, 9, 19)
-- [x] Closes with the pattern that ties all 5 types together
-- [x] Written to one person evaluating a specific opportunity
-- [x] Single low-pressure CTA at the end

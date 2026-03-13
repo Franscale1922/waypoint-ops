@@ -78,18 +78,3 @@ If you want help figuring out where your capital puts you in terms of options, t
 
 [Talk to Kelsey about what fits your budget](https://waypointfranchiseadvisors.com/contact)
 
----
-
-*Waypoint Franchise Advisors works with buyers across all capital levels. Our process is free to candidates. We get paid by the franchisor when a deal closes.*
-
----
-
-**VOICE QA CHECKLIST**
-- [x] Opens with the real point, not a wind-up
-- [x] No em-dashes
-- [x] No passive voice
-- [x] No "clarity," no AI filler, no corporate vocabulary
-- [x] Specific numbers throughout (not vague ranges or "it depends")
-- [x] Written to one person, not a general audience
-- [x] Single low-pressure CTA at the end
-- [x] Reads like Kelsey — direct, practical, no hedge words

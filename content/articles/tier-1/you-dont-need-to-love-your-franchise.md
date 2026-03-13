@@ -58,17 +58,3 @@ If that describes how you're thinking about this, you're in good shape. The next
 
 [Let's figure out which concepts fit your criteria](https://waypointfranchiseadvisors.com/contact)
 
----
-
-*Waypoint Franchise Advisors works with franchise buyers at every stage of the process. Our process is free to candidates.*
-
----
-
-**VOICE QA CHECKLIST**
-- [x] Opens with the candidate's actual question, not a marketing hook
-- [x] No em-dashes
-- [x] No passive voice
-- [x] No "clarity" or AI filler vocabulary
-- [x] The practical test section gives the reader a concrete thing to do
-- [x] Ends with a gentle call-out of the emotional-buyer pattern without being preachy
-- [x] Single low-pressure CTA

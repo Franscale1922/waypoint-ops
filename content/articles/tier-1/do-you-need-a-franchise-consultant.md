@@ -82,18 +82,3 @@ That's what I do. And if it turns out you're not ready, I'll tell you that too.
 
 [Book a call with Kelsey](https://waypointfranchiseadvisors.com/contact)
 
----
-
-*Waypoint Franchise Advisors is free to buyers. We get paid by the franchisor when a deal closes.*
-
----
-
-**VOICE QA CHECKLIST**
-- [x] Opens by validating the skepticism, not deflecting it
-- [x] Answers the cost question directly and early
-- [x] No em-dashes
-- [x] No passive voice
-- [x] No "clarity" or AI filler vocabulary
-- [x] Calls out bad consultant types without being self-congratulatory
-- [x] The closing section makes the ask without sounding desperate
-- [x] Single CTA, low pressure

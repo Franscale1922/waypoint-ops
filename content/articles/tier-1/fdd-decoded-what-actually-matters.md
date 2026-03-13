@@ -126,18 +126,3 @@ If you're at the point where you have an FDD in front of you and want a second s
 
 [Talk through your FDD with Kelsey](https://waypointfranchiseadvisors.com/contact)
 
----
-
-*Waypoint Franchise Advisors helps franchise candidates evaluate opportunities from first look through signed agreement. Our process is free to candidates.*
-
----
-
-**VOICE QA CHECKLIST**
-- [x] Opens with the real point immediately
-- [x] No em-dashes
-- [x] No passive voice
-- [x] No "clarity," no AI filler, no corporate vocabulary
-- [x] Specific Item numbers cited throughout
-- [x] The Item 20 section contains Kelsey's actual perspective from the voice guide
-- [x] Written to one person going through a real process
-- [x] Single low-pressure CTA at the end

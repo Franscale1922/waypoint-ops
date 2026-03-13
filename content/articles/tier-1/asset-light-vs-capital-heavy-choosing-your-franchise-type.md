@@ -74,18 +74,3 @@ That is the kind of conversation I run with every candidate before we ever look 
 
 [Book a call with Kelsey](https://waypointfranchiseadvisors.com/contact)
 
----
-
-*Waypoint Franchise Advisors works with buyers across all franchise types and capital levels. Our process is free to candidates.*
-
----
-
-**VOICE QA CHECKLIST**
-- [x] Opens by reframing the conventional approach immediately
-- [x] No em-dashes
-- [x] No passive voice
-- [x] No "clarity," no AI filler, no corporate vocabulary
-- [x] Specific dollar ranges throughout
-- [x] Honest about the B2B brick-and-mortar dead zone
-- [x] Written to one person figuring out which type fits them
-- [x] Single low-pressure CTA at the end
