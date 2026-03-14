@@ -1,8 +1,61 @@
 # Waypoint Voice & Tone Guide
 
-> **Purpose:** This document is the anchor for every piece of content produced by or for Waypoint.
-> Any AI agent writing content must read this first. Any content that doesn't pass this standard gets rewritten.
-
+ > **Purpose:** This document is the anchor for every piece of content produced by or for Waypoint.
+>  > Any AI agent writing content must read this first. Any content that doesn't pass this standard gets rewritten.
+>  >
+>  > ---
+>  >
+>  > ## [DONE] STATUS: POPULATED -- Sourced from GitHub (March 2026)
+>  >
+>  > This guide was built from real writing samples found across Kelsey's GitHub repos (`waypoint-core-system`, email templates, site copy). These are his actual words -- not inferred, not AI-imagined.
+>  >
+>  > ---
+>  >
+>  > ## Brand Voice Descriptors
+>  >
+>  > | Trait | What It Means in Practice | Evidence |
+>  > |---|---|---|
+>  > | **Direct** | Leads with the point. No warm-up preamble. | *"Honestly? You're in a strong position."* -- opens with the verdict, not the wind-up |
+>  > | **Candid** | Says what others won't. Shares the uncomfortable truth before the good news. | *"Ask to talk to a franchisee who had a rough first year. Everyone talks to the brand's success stories. The difference matters enormously."* |
+>  > | **Analogy-driven** | Simplifies complex concepts with original, memorable analogies -- not borrowed ones. | *"I use an analogy I made up on a call once and have never stopped using: I am the chauffeur. You own the car."* |
+>  > | **Experienced-all-sides** | Frames advice as someone who has been franchisor, franchisee, and advisor -- not just an observer. | *"I've been through a lot of franchise discovery processes, as a franchisor, as a franchisee, and now as an advisor."* |
+>  > | **Low-pressure** | Never pushes a close. Validates hesitation and frames inaction as an option. | *"It is completely fine if you don't buy."* |
+>  > | **Practical** | Prefers specific, numbered, actionable information over general guidance. | FDD breakdown by Item number (Item 19, Item 20) -- not "read the financial sections" |
+>  >
+>  > ---
+>  >
+>  > ## Structural Preferences
+>  >
+>  > - Short paragraphs -- 2-3 sentences max before a break
+>  > - - Plain-English headers -- no clever wordplay that obscures meaning
+>  >   - - No passive voice -- "you will see" not "it can be seen"
+>  >     - - No corporate filler -- no "leverage," "synergy," "holistic approach," "best-in-class"
+>  >       - - Numbers and specifics over vague claims -- cite Item numbers, percentages, real ranges
+>  >         - - Analogy first, mechanics second -- explain the concept with a metaphor, then add the detail
+>  >          
+>  >           - ---
+>  >
+>  > ## WIIFM Rule (always enforced)
+>  >
+>  > Every sentence should pass this test: **"Does this tell the candidate something useful about their situation?"**
+>  >
+>  > If a sentence is about Waypoint, the industry, or process -- it only stays if it directly connects to a benefit or decision point for the candidate.
+>  >
+>  > ---
+>  >
+>  > ## Phrases That Sound Like Kelsey (calibration standard)
+>  >
+>  > These are his actual words. Use them as a tuning fork:
+>  >
+>  > - *"Honestly?"* -- opens with candor, signals what follows is unfiltered
+>  > - - *"I made up on a call once and have never stopped using"* -- casual ownership of original thinking
+>  >   - - *"That doesn't mean every franchise is right for you. It means we can have a real conversation about which ones are."*
+>  >     - - *"A score of X/100 tells me your capital, motivation, and timing are well-aligned."* -- data-backed, specific, no fluff
+>  >       - - *"Most people in your range find it useful to move fast. Let's talk."* -- short, action-forward, no sell
+- *"The difference matters enormously."* -- strong conviction, plain words
+- *"It helps a lot to know what you do not want."* -- reframes the search process, counterintuitive
+- *"You're betting on how well it retains owners."* -- translates an FDD stat into a real stakes statement
+- 
 ---
 
 ## ✅ STATUS: POPULATED — Sourced from GitHub (March 2026)
@@ -95,9 +148,9 @@ These are direct quotes. Every article drafted for Waypoint should feel like it 
 > **On brand tier selection:**
 > *"Triple-A brands are established enough to have real systems and real support, but they still have open territory with room to grow."*
 
----
+          ---
 
-## CTA Style
+          ## CTA Style
 
 Every article ends with a clear single action. Model these on Kelsey's actual CTA tone:
 
